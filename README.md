@@ -16,7 +16,7 @@ Este é um projeto de interface responsiva desenvolvido em **Flutter**, baseado 
 
 ## • Captura de Tela
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](nft/assets/screenshot_desktop.png)
 
 ## • Créditos
 Design por Frontend Mentor.
